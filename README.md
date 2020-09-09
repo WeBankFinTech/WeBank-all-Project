@@ -44,12 +44,6 @@ All the project addresses participated and established by WeBank are collected.Ê
 
 [https://gitee.com/WeBank/WeCross](https://gitee.com/WeBank/WeCross)
 
-### Exchangis
-
-[https://github.com/WeBankFinTech/Exchangis](https://github.com/WeBankFinTech/Exchangis)
-
-[https://gitee.com/WeBank/Exchangis](https://gitee.com/WeBank/Exchangis)
-
 ### WeDPR
 
 [https://github.com/WeBankBlockchain/WeDPR-Lab-Core](https://github.com/WeBankBlockchain/WeDPR-Lab-Core)
@@ -123,6 +117,12 @@ All the project addresses participated and established by WeBank are collected.Ê
 [https://github.com/WeBankFinTech/Schedulis](https://github.com/WeBankFinTech/Schedulis)
 
 [https://gitee.com/WeBank/Schedulis](https://gitee.com/WeBank/Schedulis)
+
+### Exchangis
+
+[https://github.com/WeBankFinTech/Exchangis](https://github.com/WeBankFinTech/Exchangis)
+
+[https://gitee.com/WeBank/Exchangis](https://gitee.com/WeBank/Exchangis)
 
 # ÂâçÁ´Ø Front-end
 
