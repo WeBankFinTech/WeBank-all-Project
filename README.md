@@ -41,6 +41,7 @@ All the project addresses participated and established by WeBank are collected.æ
 ### WeCross
 
 [https://github.com/WeBankFinTech/WeCross](https://github.com/WeBankFinTech/WeCross)
+[https://gitee.com/WeBank/WeCross](https://gitee.com/WeBank/WeCross)
 
 ### Exchangis
 
