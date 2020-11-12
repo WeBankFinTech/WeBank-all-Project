@@ -130,7 +130,7 @@ All the project addresses participated and established by WeBank are collected.æ
 
 [https://github.com/WeBankFinTech/WeTrident](https://github.com/WeBankFinTech/WeTrident)
 
-[https://gitee.com/WeBank/Schedulis](https://gitee.com/WeBank/Schedulis)
+[https://gitee.com/WeBank/WeTrident](https://gitee.com/WeBank/WeTrident)
 
 ### **Fes.js**
 
