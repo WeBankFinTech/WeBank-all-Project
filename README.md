@@ -3,7 +3,7 @@ All the project addresses participated and established by WeBank are collected.�
 
 更多关于微众开源的动态，微众银行招聘，社区活动，欢迎关注“微众开源”公众号，不定期还有开源周边相送！(*^▽^*)
 
-![图片](https://uploader.shimo.im/f/JsIR2ftXj0V2pEyA.png!thumbnail)
+ ![qrcode_for_gh_bdad9e15c12b_258.jpg](https://i.loli.net/2020/11/19/e3vktEYKyBD7Mz2.jpg)
 
 
 
