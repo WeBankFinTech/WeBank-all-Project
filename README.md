@@ -1,10 +1,10 @@
 All the project addresses participated and established by WeBank are collected.汇集了微众银行参与和建立的所有项目地址。
 
 
-### **“微众开源”公众号**
-
 更多关于微众开源的动态，微众银行招聘，社区活动，欢迎关注“微众开源”公众号，不定期还有开源周边相送！(*^▽^*)
-![微众开源二维码 ](https://i.loli.net/2020/11/19/YdeGnbAPjRt4FwE.jpg)
+
+![微众开源二维码 ]!(https://i.loli.net/2020/11/19/YdeGnbAPjRt4FwE.jpg!thumbnail)
+
 
 
 # 人工智能 Artificial Intelligence
