@@ -145,4 +145,4 @@ All the project addresses participated and established by WeBank are collected.�
 
 [https://gitee.com/WeBank/wxa](https://gitee.com/WeBank/wxa)
 
-
+![更多微众开源动态，微众银行招聘及社区活动，请关注“微众开源”公众号，不定期有周边礼品相送！ ](https://i.loli.net/2020/11/19/YdeGnbAPjRt4FwE.jpg)
