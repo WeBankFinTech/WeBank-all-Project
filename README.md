@@ -49,13 +49,17 @@ All the project addresses participated and established by WeBank are collected.�
 
 ### WeCross
 
-[https://github.com/WeBankFinTech/WeCross](https://github.com/WeBankFinTech/WeCross)
+[https://github.com/WeBankBlockchain/WeCross](https://github.com/WeBankBlockchain/WeCross)
 
 [https://gitee.com/WeBank/WeCross](https://gitee.com/WeBank/WeCross)
 
 ### WeDPR
 
 [https://github.com/WeBankBlockchain/WeDPR-Lab-Core](https://github.com/WeBankBlockchain/WeDPR-Lab-Core)
+
+### WeBankBlockchain-data
+
+[https://github.com/WeBankBlockchain/Data-Doc](https://github.com/WeBankBlockchain/Data-Doc)
 
 # 云计算 Cloud Computing
 
@@ -132,6 +136,12 @@ All the project addresses participated and established by WeBank are collected.�
 [https://github.com/WeBankFinTech/Exchangis](https://github.com/WeBankFinTech/Exchangis)
 
 [https://gitee.com/WeBank/Exchangis](https://gitee.com/WeBank/Exchangis)
+
+### Prophecis
+
+[https://github.com/WeBankFinTech/Prophecis](https://github.com/WeBankFinTech/Prophecis)
+
+[https://gitee.com/WeBank/Prophecis](https://gitee.com/WeBank/Prophecis)
 
 # 前端 Front-end
 
