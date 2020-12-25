@@ -25,7 +25,7 @@ All the project addresses participated and established by WeBank are collected.æ
 
 ### FISCO-BCOS
 
-[https://github.com/FISCO-BCOS/Wiki](https://github.com/FISCO-BCOS/Wiki)
+[https://github.com/FISCO-BCOS](https://github.com/FISCO-BCOS)
 
 [https://gitee.com/FISCO-BCOS](https://gitee.com/FISCO-BCOS)
 
