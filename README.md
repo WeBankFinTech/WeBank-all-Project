@@ -57,11 +57,6 @@ All the project addresses participated and established by WeBank are collected.�
 
 [https://github.com/WeBankBlockchain/WeDPR-Lab-Core](https://github.com/WeBankBlockchain/WeDPR-Lab-Core)
 
-### WeBankBlockchain-data
-
-[https://github.com/WeBankBlockchain/Data-Doc](https://github.com/WeBankBlockchain/Data-Doc)
-
-
 ### Data-Stash 数据仓库组件
 
 [https://github.com/WeBankBlockchain/Data-Stash](https://github.com/WeBankBlockchain/Data-Stash)
