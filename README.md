@@ -222,8 +222,7 @@ All the project addresses participated and established by WeBank are collected.�
 
 社区助手微信 ID : geniusWanc
 
-<img src="![fes.jpg](https://i.loli.net/2021/03/24/TnGoqEU3jz1PK8t.jpg)"height="250"/>
-
+<img src="https://i.loli.net/2020/09/16/sxwr62CKhmYOUyV.jpg" height="100"/>
 
 [https://github.com/WeBankFinTech/fes.js](https://github.com/WeBankFinTech/fes.js)
 
