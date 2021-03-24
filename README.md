@@ -29,13 +29,13 @@ All the project addresses participated and established by WeBank are collected.�
 
 [https://gitee.com/FISCO-BCOS](https://gitee.com/FISCO-BCOS)
 
-### WeIdentity
+### WeIdentity 基于区块链的实体身份标识及可信数据交换解决方案
 
 [https://github.com/WeBankFinTech/WeIdentity](https://github.com/WeBankFinTech/WeIdentity)
 
 [https://gitee.com/WeBank/WeIdentity](https://gitee.com/WeBank/WeIdentity)
 
-### WeEvent
+### WeEvent 基于区块链的分布式事件驱动架构
 
 [https://github.com/WeBankFinTech/WeEvent](https://github.com/WeBankFinTech/WeEvent)
 
@@ -83,7 +83,7 @@ All the project addresses participated and established by WeBank are collected.�
 
 [https://gitee.com/WeBank/wecube-platform](https://gitee.com/WeBank/wecube-platform)
 
-### open-monitor
+### open-monitor 分布式监控系统 
 
 [https://github.com/WeBankPartners/open-monitor](https://github.com/WeBankPartners/open-monitor)
 
@@ -110,26 +110,30 @@ All the project addresses participated and established by WeBank are collected.�
 
 ###  Dockin 私有云容器平台
 
-#### Dockin CNI - Dockin IPAM CNI
+[https://github.com/WeBankFinTech/Dockin](https://github.com/WeBankFinTech/Dockin)
+
+[https://gitee.com/WeBankFinTech/Dockin](https://gitee.com/WeBankFinTech/Dockin)
+ 
+#### Dockin CNI - Dockin IPAM CNI 支持固定IP的网络插件
 [https://github.com/WeBankFinTech/Dockin-CNI](https://github.com/WeBankFinTech/Dockin-CNI)
 
 [https://gitee.com/WeBankFinTech/Dockin-CNI](https://gitee.com/WeBankFinTech/Dockin-CNI)
 
-#### Dockin OPS - Dockin Operation service
+#### Dockin OPS - Dockin Operation service 安全的运维编排服务
 
 [https://github.com/WeBankFinTech/Dockin-Ops](https://github.com/WeBankFinTech/Dockin-Ops)
 
 [https:///gitee.com/WeBankFinTech/Dockin-Ops](https:///gitee.com/WeBankFinTech/Dockin-Ops)
 
 
-#### Dockin Installer - Dockin Platform Installer
+#### Dockin Installer - Dockin Platform Installer 离线Kubernetes集群安装器
 
 [https://github.com/WeBankFinTech/Dockin-Installer](https://github.com/WeBankFinTech/Dockin-Installer)
 
 [https://gitee.com/WeBankFinTech/Dockin-Installer](https://gitee.com/WeBankFinTech/Dockin-Installer)
 
 
-#### Dockin RM - Dockin Resource Manager
+#### Dockin RM - Dockin Resource Manager 应用资源管理系统
 
 [https://github.com/WeBankFinTech/Dockin-RM](https://github.com/WeBankFinTech/Dockin-RM)
 
@@ -138,7 +142,7 @@ All the project addresses participated and established by WeBank are collected.�
 
 # 大数据 Big Data
 
-### **DataSphereStudio**
+### **DataSphereStudio** 数据应用开发门户
 
 [https://github.com/WeBankFinTech/DataSphereStudio](https://github.com/WeBankFinTech/DataSphereStudio)
 
@@ -150,7 +154,7 @@ All the project addresses participated and established by WeBank are collected.�
 
 [https://gitee.com/WeBank/Qualitis](https://gitee.com/WeBank/Qualitis)
 
-### Scriptis
+### Scriptis 任务调度系统
 
 [https://github.com/WeBankFinTech/Scriptis](https://github.com/WeBankFinTech/Scriptis)
 
