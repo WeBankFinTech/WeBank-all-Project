@@ -115,9 +115,6 @@ All the project addresses participated and established by WeBank are collected.æ
 
 <img src="https://i.loli.net/2021/03/24/d25GQ6CbkuEKmUe.png" height="100"/>
 
-![evnetmesh.png](https://i.loli.net/2021/03/24/d25GQ6CbkuEKmUe.png)
-
-
 [https://github.com/WeBankFinTech/EventMesh](https://github.com/WeBankFinTech/EventMesh)
 
 [https://gitee.com/WeBank/EventMesh](https://gitee.com/WeBank/EventMesh)
