@@ -11,17 +11,23 @@ All the project addresses participated and established by WeBank are collected.�
 
 ### FATE 联邦学习系统
 
+社区助手微信 ID : 
+
 [https://github.com/FederatedAI/FATE](https://github.com/FederatedAI/FATE)
 
 [https://gitee.com/WeBank/FATE](https://gitee.com/WeBank/FATE)
 
 ### Eggroll 分布式计算、存储、通信引擎
 
+社区助手微信 ID : 
+
 [https://github.com/WeBankFinTech/eggroll](https://github.com/WeBankFinTech/eggroll)
 
 [https://gitee.com/WeBank/eggroll](https://gitee.com/WeBank/eggroll)
 
 # 区块链 Blockchain
+
+社区助手微信 ID :   
 
 ### FISCO-BCOS 适用于金融行业的区块链底层平台
 
@@ -79,6 +85,8 @@ All the project addresses participated and established by WeBank are collected.�
 
 ### wecube-platform
 
+社区助手微信 ID : 
+
 [https://github.com/WeBankPartners/wecube-platform](https://github.com/WeBankPartners/wecube-platform)
 
 [https://gitee.com/WeBank/wecube-platform](https://gitee.com/WeBank/wecube-platform)
@@ -103,12 +111,20 @@ All the project addresses participated and established by WeBank are collected.�
 
 ### EventMesh 事件网格
 
+社区助手微信 ID : EventMesh  
+
+
+![evnetmesh.png](https://i.loli.net/2021/03/24/d25GQ6CbkuEKmUe.png)
+
+
 [https://github.com/WeBankFinTech/EventMesh](https://github.com/WeBankFinTech/EventMesh)
 
 [https://gitee.com/WeBank/EventMesh](https://gitee.com/WeBank/EventMesh)
 
 
 ###  Dockin 私有云容器平台
+
+社区助手微信 ID : 
 
 [https://github.com/WeBankFinTech/Dockin](https://github.com/WeBankFinTech/Dockin)
 
@@ -141,6 +157,8 @@ All the project addresses participated and established by WeBank are collected.�
 
 
 # 大数据 Big Data
+
+社区助手微信 ID : wedatasphere  
 
 ### **DataSphereStudio** 数据应用开发门户
 
@@ -194,17 +212,24 @@ All the project addresses participated and established by WeBank are collected.�
 
 ### **WeTrident** 基于React Native的app开发、测试及运维等领域解决方案套件
 
+社区助手微信 ID : 
+
 [https://github.com/WeBankFinTech/WeTrident](https://github.com/WeBankFinTech/WeTrident)
 
 [https://gitee.com/WeBank/WeTrident](https://gitee.com/WeBank/WeTrident)
 
 ### **Fes.js** 基于Vue.js适用Curd应用的前端权限管理方案
+
+社区助手微信 ID : 
+
 [https://github.com/WeBankFinTech/fes.js](https://github.com/WeBankFinTech/fes.js)
 
 [https://gitee.com/WeBank/fes.js](https://gitee.com/WeBank/fes.js)
 
 
 ### **wxa** 小程序开发解决方案
+
+社区助手微信 ID : 
 
 [https://github.com/WeBankFinTech/wxa](https://github.com/WeBankFinTech/wxa)
 
