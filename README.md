@@ -159,6 +159,8 @@ All the project addresses participated and established by WeBank are collected.�
 社区助手微信 ID : wedatasphere  
 ![二维码](https://user-images.githubusercontent.com/11496700/84615565-f2197380-aefb-11ea-8288-c2d7b0410933.png)
 
+<img src=https://user-images.githubusercontent.com/11496700/84615565-f2197380-aefb-11ea-8288-c2d7b0410933.png" height="100"/>
+                                                                                                                           
 ### linkis 计算中间件
 
 [https://github.com/WeBankFinTech/Linkis](https://github.com/WeBankFinTech/Linkis)
