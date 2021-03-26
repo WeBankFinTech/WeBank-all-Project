@@ -157,30 +157,53 @@ All the project addresses participated and established by WeBank are collected.�
 # 大数据 Big Data
 
 社区助手微信 ID : wedatasphere  
+[二维码](https://user-images.githubusercontent.com/11496700/84615565-f2197380-aefb-11ea-8288-c2d7b0410933.png)
 
-### **DataSphereStudio** 数据应用开发门户
+### linkis 计算中间件
+
+[https://github.com/WeBankFinTech/Linkis](https://github.com/WeBankFinTech/Linkis)
+
+[https://gitee.com/WeBank/Linkis](https://gitee.com/WeBank/Linkis)
+
+
+### **DataSphereStudio** 一站式数据应用开发管理门户
 
 [https://github.com/WeBankFinTech/DataSphereStudio](https://github.com/WeBankFinTech/DataSphereStudio)
 
 [https://gitee.com/WeBank/DataSphereStudio](https://gitee.com/WeBank/DataSphereStudio)
 
-### Qualitis 数据质量工具
+
+### Qualitis 数据质量管理平台
 
 [https://github.com/WeBankFinTech/Qualitis](https://github.com/WeBankFinTech/Qualitis)
 
 [https://gitee.com/WeBank/Qualitis](https://gitee.com/WeBank/Qualitis)
 
-### Scriptis 任务调度系统
+### Schedulis 工作流任务调度系统
+
+[https://github.com/WeBankFinTech/Schedulis](https://github.com/WeBankFinTech/Schedulis)
+
+[https://gitee.com/WeBank/Schedulis](https://gitee.com/WeBank/Schedulis)
+
+### Exchangis 数据交换平台
+
+[https://github.com/WeBankFinTech/Exchangis](https://github.com/WeBankFinTech/Exchangis)
+
+[https://gitee.com/WeBank/Exchangis](https://gitee.com/WeBank/Exchangis)
+
+### Prophecis 一站式机器学习平台
+
+[https://github.com/WeBankFinTech/Prophecis](https://github.com/WeBankFinTech/Prophecis)
+
+[https://gitee.com/WeBank/Prophecis](https://gitee.com/WeBank/Prophecis)
+
+### Scriptis 交互式数据分析Web工具
 
 [https://github.com/WeBankFinTech/Scriptis](https://github.com/WeBankFinTech/Scriptis)
 
 [https://gitee.com/WeBank/Scriptis](https://gitee.com/WeBank/Scriptis)
 
-### linkis 金融级大数据平台中间件服务集合
 
-[https://github.com/WeBankFinTech/Linkis](https://github.com/WeBankFinTech/Linkis)
-
-[https://gitee.com/WeBank/Linkis](https://gitee.com/WeBank/Linkis)
 
 ### Visualis 数据可视化工具
 
@@ -188,23 +211,7 @@ All the project addresses participated and established by WeBank are collected.�
 
 [https://gitee.com/WeBank/Visualis](https://gitee.com/WeBank/Visualis)
 
-### Schedulis 任务调度系统
 
-[https://github.com/WeBankFinTech/Schedulis](https://github.com/WeBankFinTech/Schedulis)
-
-[https://gitee.com/WeBank/Schedulis](https://gitee.com/WeBank/Schedulis)
-
-### Exchangis 数据交互工具
-
-[https://github.com/WeBankFinTech/Exchangis](https://github.com/WeBankFinTech/Exchangis)
-
-[https://gitee.com/WeBank/Exchangis](https://gitee.com/WeBank/Exchangis)
-
-### Prophecis 机器学习建模工具
-
-[https://github.com/WeBankFinTech/Prophecis](https://github.com/WeBankFinTech/Prophecis)
-
-[https://gitee.com/WeBank/Prophecis](https://gitee.com/WeBank/Prophecis)
 
 # 前端 Front-end
 
@@ -234,6 +241,3 @@ All the project addresses participated and established by WeBank are collected.�
 [https://github.com/WeBankFinTech/wxa](https://github.com/WeBankFinTech/wxa)
 
 [https://gitee.com/WeBank/wxa](https://gitee.com/WeBank/wxa)
-
-
-
