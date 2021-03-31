@@ -27,7 +27,11 @@ All the project addresses participated and established by WeBank are collected.�
 
 # 区块链 Blockchain
 
-社区助手微信 ID :   
+社区助手微信 ID : 
+
+FISCOBCOS010
+
+![community_assistant.jpg](./images/fisco_bcos_community_assistant.png)
 
 ### FISCO-BCOS 适用于金融行业的区块链底层平台
 
@@ -80,6 +84,18 @@ All the project addresses participated and established by WeBank are collected.�
 [https://github.com/WeBankBlockchain/Data-Reconcile](https://github.com/WeBankBlockchain/Data-Reconcile)
 
 [https://gitee.com/WeBankBlockchain/Data-Reconcile](https://gitee.com/WeBankBlockchain/Data-Reconcile)
+
+### Liquid 智能合约编程语言软件
+
+[https://github.com/WeBankBlockchain/liquid](https://github.com/WeBankBlockchain/liquid)
+
+[https://gitee.com/WeBankBlockchain/liquid](https://gitee.com/WeBankBlockchain/liquid)
+
+### cargo-liquid Liquid智能合约辅助开发工具
+
+[https://github.com/WeBankBlockchain/liquid](https://github.com/WeBankBlockchain/liquid)
+
+[https://gitee.com/WeBankBlockchain/cargo-liquid](https://gitee.com/WeBankBlockchain/cargo-liquid)
 
 # 云计算 Cloud Computing
 
