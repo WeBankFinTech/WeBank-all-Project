@@ -81,6 +81,11 @@ All the project addresses participated and established by WeBank are collected.�
 
 [https://gitee.com/WeBankBlockchain/Data-Reconcile](https://gitee.com/WeBankBlockchain/Data-Reconcile)
 
+### Truora 可信预言机服务
+[https://github.com/WeBankBlockchain/Truora](https://github.com/WeBankBlockchain/Truora)
+
+[https://gitee.com/WeBankBlockchain/Truora](https://gitee.com/WeBankBlockchain/Truora)
+
 # 云计算 Cloud Computing
 
 ### wecube-platform
