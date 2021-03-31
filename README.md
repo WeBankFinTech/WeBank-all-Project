@@ -128,7 +128,7 @@ All the project addresses participated and established by WeBank are collected.�
 
 [https://gitee.com/WeBankFinTech/Dockin](https://gitee.com/WeBankFinTech/Dockin)
  
-#### Dockin CNI - Dockin IPAM CNI 支持固定IP的网络插件
+#### Dockin CNI - Dockin IPAM CNI 支持固定 IP 的网络插件
 [https://github.com/WeBankFinTech/Dockin-CNI](https://github.com/WeBankFinTech/Dockin-CNI)
 
 [https://gitee.com/WeBankFinTech/Dockin-CNI](https://gitee.com/WeBankFinTech/Dockin-CNI)
@@ -167,7 +167,7 @@ All the project addresses participated and established by WeBank are collected.�
 [https://gitee.com/WeBank/Linkis](https://gitee.com/WeBank/Linkis)
 
 
-### **DataSphereStudio** 一站式数据应用开发管理门户
+### **DataSphereStudio**  一站式数据应用开发管理门户
 
 [https://github.com/WeBankFinTech/DataSphereStudio](https://github.com/WeBankFinTech/DataSphereStudio)
 
@@ -204,8 +204,6 @@ All the project addresses participated and established by WeBank are collected.�
 
 [https://gitee.com/WeBank/Scriptis](https://gitee.com/WeBank/Scriptis)
 
-
-
 ### Visualis 数据可视化工具
 
 [https://github.com/WeBankFinTech/Visualis](https://github.com/WeBankFinTech/Visualis)
@@ -216,7 +214,7 @@ All the project addresses participated and established by WeBank are collected.�
 
 # 前端 Front-end
 
-### **WeTrident** 基于React Native的app开发、测试及运维等领域解决方案套件
+### **WeTrident**  基于React Native的app开发、测试及运维等领域解决方案套件
 
 社区助手微信 ID : 
 
@@ -224,7 +222,7 @@ All the project addresses participated and established by WeBank are collected.�
 
 [https://gitee.com/WeBank/WeTrident](https://gitee.com/WeBank/WeTrident)
 
-### **Fes.js** 基于Vue.js适用Curd应用的前端权限管理方案
+### **Fes.js**  基于Vue.js适用Curd应用的前端权限管理方案
 
 社区助手微信 ID : geniusWanc
 
@@ -235,7 +233,7 @@ All the project addresses participated and established by WeBank are collected.�
 [https://gitee.com/WeBank/fes.js](https://gitee.com/WeBank/fes.js)
 
 
-### **wxa** 小程序开发解决方案
+### **wxa**  小程序开发解决方案
 
 社区助手微信 ID : 
 
