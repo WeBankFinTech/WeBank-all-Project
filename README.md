@@ -90,7 +90,9 @@ All the project addresses participated and established by WeBank are collected.�
 
 ### wecube-platform
 
-社区助手微信 ID : 
+社区助手微信 ID : wxid_ore47qtttrq212
+
+![wecube-qrcode](https://github.com/WeBankPartners/wecube-platform/blob/master/wecube-wiki/images/wecube_qr_code_100x100.png)
 
 [https://github.com/WeBankPartners/wecube-platform](https://github.com/WeBankPartners/wecube-platform)
 
