@@ -128,6 +128,22 @@ https://gitee.com/WeBankBlockchain/Governance-Cert
 
 [https://gitee.com/WeBankBlockchain/Truora](https://gitee.com/WeBankBlockchain/Truora)
 
+### SmartDev-Contract  智能合约库组件
+[https://github.com/WeBankBlockchain/SmartDev-Contract](https://github.com/WeBankBlockchain/SmartDev-Contract)
+
+[https://gitee.com/WeBankBlockchain/SmartDev-Contract](https://gitee.com/WeBankBlockchain/SmartDev-Contract)
+
+### SmartDev-SCGP  合约编译插件
+[https://github.com/WeBankBlockchain/SmartDev-SCGP](https://github.com/WeBankBlockchain/SmartDev-SCGP)
+
+[https://gitee.com/WeBankBlockchain/SmartDev-SCGP](https://gitee.com/WeBankBlockchain/SmartDev-SCGP)
+
+    
+### SmartDev-Scaffold  应用开发脚手架
+[https://github.com/WeBankBlockchain/SmartDev-Scaffold](https://github.com/WeBankBlockchain/SmartDev-Scaffold)
+
+[https://gitee.com/WeBankBlockchain/SmartDev-Scaffold](https://gitee.com/WeBankBlockchain/SmartDev-Scaffold)
+
 
 # 云计算 Cloud Computing
 
