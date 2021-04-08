@@ -129,7 +129,9 @@ All the project addresses participated and established by WeBank are collected.�
 
 ###  Dockin 私有云容器平台
 
-社区助手微信 ID : 
+社区助手微信 ID : wxid_cgz
+
+<img src="https://i.loli.net/2021/01/22/j41DpqKCYZRXPt9.png" height="100"/>
 
 [https://github.com/WeBankFinTech/Dockin](https://github.com/WeBankFinTech/Dockin)
 
