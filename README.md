@@ -85,6 +85,7 @@ FISCOBCOS010
 
 [https://gitee.com/WeBankBlockchain/Data-Reconcile](https://gitee.com/WeBankBlockchain/Data-Reconcile)
 
+
 ### Liquid 智能合约编程语言软件
 
 [https://github.com/WeBankBlockchain/liquid](https://github.com/WeBankBlockchain/liquid)
@@ -97,11 +98,46 @@ FISCOBCOS010
 
 [https://gitee.com/WeBankBlockchain/cargo-liquid](https://gitee.com/WeBankBlockchain/cargo-liquid)
 
+
+### Governance-Account 账户治理组件
+
+https://github.com/WeBankBlockchain/Governance-Account
+
+https://gitee.com/WeBankBlockchain/Governance-Account
+
+### Governance-Authority 权限治理组件
+
+https://github.com/WeBankBlockchain/Governance-Authority
+
+https://gitee.com/WeBankBlockchain/Governance-Authority
+
+### Governance-Key 私钥管理组件
+
+https://github.com/WeBankBlockchain/Governance-Key
+
+https://gitee.com/WeBankBlockchain/Governance-Key
+
+### Governance-Cert 证书管理组件
+
+https://github.com/WeBankBlockchain/Governance-Cert
+
+https://gitee.com/WeBankBlockchain/Governance-Cert
+
+
+### Truora 可信预言机服务
+
+[https://github.com/WeBankBlockchain/Truora](https://github.com/WeBankBlockchain/Truora)
+
+[https://gitee.com/WeBankBlockchain/Truora](https://gitee.com/WeBankBlockchain/Truora)
+
+
 # 云计算 Cloud Computing
 
 ### wecube-platform
 
-社区助手微信 ID : 
+社区助手微信 ID : wxid_ore47qtttrq212
+
+![wecube-qrcode](https://github.com/WeBankPartners/wecube-platform/blob/master/wecube-wiki/images/wecube_qr_code_100x100.png)
 
 [https://github.com/WeBankPartners/wecube-platform](https://github.com/WeBankPartners/wecube-platform)
 
@@ -138,13 +174,17 @@ FISCOBCOS010
 
 ###  Dockin 私有云容器平台
 
-社区助手微信 ID : 
+社区助手微信 ID : wxid_cgz
+
+<img src="https://i.loli.net/2021/01/22/j41DpqKCYZRXPt9.png" height="100"/>
 
 [https://github.com/WeBankFinTech/Dockin](https://github.com/WeBankFinTech/Dockin)
 
 [https://gitee.com/WeBankFinTech/Dockin](https://gitee.com/WeBankFinTech/Dockin)
+
  
 #### Dockin CNI - Dockin IPAM CNI 支持固定 IP 的网络插件
+
 [https://github.com/WeBankFinTech/Dockin-CNI](https://github.com/WeBankFinTech/Dockin-CNI)
 
 [https://gitee.com/WeBankFinTech/Dockin-CNI](https://gitee.com/WeBankFinTech/Dockin-CNI)
@@ -175,7 +215,7 @@ FISCOBCOS010
 社区助手微信 ID : wedatasphere  
 ![二维码](https://user-images.githubusercontent.com/11496700/84615565-f2197380-aefb-11ea-8288-c2d7b0410933.png)
 
-                                                                                                                           
+
 ### linkis 计算中间件
 
 [https://github.com/WeBankFinTech/Linkis](https://github.com/WeBankFinTech/Linkis)
