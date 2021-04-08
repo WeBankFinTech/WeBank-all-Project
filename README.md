@@ -81,10 +81,38 @@ All the project addresses participated and established by WeBank are collected.�
 
 [https://gitee.com/WeBankBlockchain/Data-Reconcile](https://gitee.com/WeBankBlockchain/Data-Reconcile)
 
+
+### Governance-Account 账户治理组件
+
+https://github.com/WeBankBlockchain/Governance-Account
+
+https://gitee.com/WeBankBlockchain/Governance-Account
+
+### Governance-Authority 权限治理组件
+
+https://github.com/WeBankBlockchain/Governance-Authority
+
+https://gitee.com/WeBankBlockchain/Governance-Authority
+
+### Governance-Key 私钥管理组件
+
+https://github.com/WeBankBlockchain/Governance-Key
+
+https://gitee.com/WeBankBlockchain/Governance-Key
+
+### Governance-Cert 证书管理组件
+
+https://github.com/WeBankBlockchain/Governance-Cert
+
+https://gitee.com/WeBankBlockchain/Governance-Cert
+
+
 ### Truora 可信预言机服务
+
 [https://github.com/WeBankBlockchain/Truora](https://github.com/WeBankBlockchain/Truora)
 
 [https://gitee.com/WeBankBlockchain/Truora](https://gitee.com/WeBankBlockchain/Truora)
+
 
 # 云计算 Cloud Computing
 
@@ -136,8 +164,10 @@ All the project addresses participated and established by WeBank are collected.�
 [https://github.com/WeBankFinTech/Dockin](https://github.com/WeBankFinTech/Dockin)
 
 [https://gitee.com/WeBankFinTech/Dockin](https://gitee.com/WeBankFinTech/Dockin)
+
  
 #### Dockin CNI - Dockin IPAM CNI 支持固定 IP 的网络插件
+
 [https://github.com/WeBankFinTech/Dockin-CNI](https://github.com/WeBankFinTech/Dockin-CNI)
 
 [https://gitee.com/WeBankFinTech/Dockin-CNI](https://gitee.com/WeBankFinTech/Dockin-CNI)
@@ -168,7 +198,7 @@ All the project addresses participated and established by WeBank are collected.�
 社区助手微信 ID : wedatasphere  
 ![二维码](https://user-images.githubusercontent.com/11496700/84615565-f2197380-aefb-11ea-8288-c2d7b0410933.png)
 
-                                                                                                                           
+
 ### linkis 计算中间件
 
 [https://github.com/WeBankFinTech/Linkis](https://github.com/WeBankFinTech/Linkis)
