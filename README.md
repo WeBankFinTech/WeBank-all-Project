@@ -27,9 +27,7 @@ All the project addresses participated and established by WeBank are collected.�
 
 # 区块链 Blockchain
 
-社区助手微信 ID : 
-
-FISCOBCOS010
+社区助手微信 ID : FISCOBCOS010
 
 ![community_assistant.jpg](./images/fisco_bcos_community_assistant.png)
 
@@ -180,27 +178,27 @@ https://gitee.com/WeBankBlockchain/Governance-Cert
 
 [https://github.com/WeBankFinTech/Dockin](https://github.com/WeBankFinTech/Dockin)
 
-[https://gitee.com/WeBankFinTech/Dockin](https://gitee.com/WeBankFinTech/Dockin)
+[https://gitee.com/WeBank/Dockin](https://gitee.com/WeBank/Dockin)
 
  
 #### Dockin CNI - Dockin IPAM CNI 支持固定 IP 的网络插件
 
 [https://github.com/WeBankFinTech/Dockin-CNI](https://github.com/WeBankFinTech/Dockin-CNI)
 
-[https://gitee.com/WeBankFinTech/Dockin-CNI](https://gitee.com/WeBankFinTech/Dockin-CNI)
+[https://gitee.com/WeBank/Dockin-CNI](https://gitee.com/WeBank/Dockin-CNI)
 
 #### Dockin OPS - Dockin Operation service 安全的运维编排服务
 
 [https://github.com/WeBankFinTech/Dockin-Ops](https://github.com/WeBankFinTech/Dockin-Ops)
 
-[https:///gitee.com/WeBankFinTech/Dockin-Ops](https:///gitee.com/WeBankFinTech/Dockin-Ops)
+[https:///gitee.com/WeBank/Dockin-Ops](https:///gitee.com/WeBank/Dockin-Ops)
 
 
 #### Dockin Installer - Dockin Platform Installer 离线Kubernetes集群安装器
 
 [https://github.com/WeBankFinTech/Dockin-Installer](https://github.com/WeBankFinTech/Dockin-Installer)
 
-[https://gitee.com/WeBankFinTech/Dockin-Installer](https://gitee.com/WeBankFinTech/Dockin-Installer)
+[https://gitee.com/WeBank/Dockin-Installer](https://gitee.com/WeBank/Dockin-Installer)
 
 
 #### Dockin RM - Dockin Resource Manager 应用资源管理系统
