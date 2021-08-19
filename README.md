@@ -183,7 +183,12 @@ https://gitee.com/WeBankBlockchain/Governance-Cert
 
 社区助手微信 ID : EventMesh  
 
-<img src="https://i.loli.net/2021/03/24/d25GQ6CbkuEKmUe.png" height="100"/>
+<img src="https://i.loli.net/2021/08/19/UcpHD12YlLAbxdG.jpg" height="100"/>   
+
+公众号 
+
+<img src="https://i.loli.net/2021/08/19/imQshqTakZY8N5f.jpg" height="120"/>
+
 
 [https://github.com/apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh)
 
