@@ -302,7 +302,7 @@ https://gitee.com/WeBankBlockchain/Governance-Cert
 
 [https://gitee.com/WeBank/WeTrident](https://gitee.com/WeBank/WeTrident)
 
-### **Fes.js**  基于Vue.js适用Curd应用的前端权限管理方案
+### **Fes.js**  基于 Vue 的企业级通用前端应用解决方案
 
 社区助手微信 ID : geniusWanc
 
@@ -312,6 +312,9 @@ https://gitee.com/WeBankBlockchain/Governance-Cert
 
 [https://gitee.com/WeBank/fes.js](https://gitee.com/WeBank/fes.js)
 
+https://github.com/WeBankFinTech/fes-design
+
+https://gitee.com/WeBank/fes-design
 
 ### **wxa**  小程序开发解决方案
 
