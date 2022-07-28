@@ -247,7 +247,7 @@ https://gitee.com/WeBankBlockchain/Governance-Cert
 
 [https://github.com/apache/incubator-linkis](https://github.com/apache/incubator-linkis)
  
-[https://gitee.com/WeBank/Linkis] (https://gitee.com/WeBank/Linkis)
+[https://gitee.com/apacheLinkis/Linkis] (https://gitee.com/apacheLinkis/Linkis)
 
 
 ### **DataSphereStudio**  一站式数据应用开发管理门户
