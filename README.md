@@ -293,7 +293,11 @@ https://gitee.com/WeBankBlockchain/Governance-Cert
 
 [https://gitee.com/WeBank/Visualis](https://gitee.com/WeBank/Visualis)
 
+### Streamis 流式应用开发管理系统
 
+[https://github.com/WeBankFinTech/Streamis](https://github.com/WeBankFinTech/Streamis)
+
+[https://gitee.com/WeBank/Streamis](https://gitee.com/WeBank/Streamis)
 
 # 前端 Front-end
 
