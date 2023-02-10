@@ -245,7 +245,7 @@ https://gitee.com/WeBankBlockchain/Governance-Cert
 
 ### linkis 计算中间件
 
-[https://github.com/apache/incubator-linkis](https://github.com/apache/incubator-linkis)
+[https://github.com/apache/incubator](https://github.com/apache/linkis)
  
 [https://gitee.com/apacheLinkis](https://gitee.com/apacheLinkis)
 
