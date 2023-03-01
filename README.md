@@ -14,15 +14,11 @@ All the project addresses participated and established by WeBank are collected.�
 
 ### FATE 联邦学习系统
 
-社区助手微信 ID : 
-
 [https://github.com/FederatedAI/FATE](https://github.com/FederatedAI/FATE)
 
 [https://gitee.com/WeBank/FATE](https://gitee.com/WeBank/FATE)
 
 ### Eggroll 分布式计算、存储、通信引擎
-
-社区助手微信 ID : 
 
 [https://github.com/WeBankFinTech/eggroll](https://github.com/WeBankFinTech/eggroll)
 
@@ -325,7 +321,6 @@ https://gitee.com/WeBank/fes-design
 
 ### **wxa**  小程序开发解决方案
 
-社区助手微信 ID : 
 
 [https://github.com/WeBankFinTech/wxa](https://github.com/WeBankFinTech/wxa)
 
