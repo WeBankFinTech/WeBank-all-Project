@@ -237,7 +237,11 @@ https://gitee.com/WeBankBlockchain/Governance-Cert
 社区助手微信 ID : wedatasphere  
 
 <img src="https://user-images.githubusercontent.com/11496700/84615565-f2197380-aefb-11ea-8288-c2d7b0410933.png" height="200"/>
+ 
+ 
+[https://github.com/WeBankFinTech/WeDataSphere](https://github.com/WeBankFinTech/WeDataSphere)
 
+[https://gitee.com/WeBank/WeDataSphere](https://gitee.com/WeBank/WeDataSphere)
 
 ### linkis 计算中间件
 
