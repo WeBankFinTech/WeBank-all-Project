@@ -2,12 +2,11 @@
 
 All the project addresses participated and established by WeBank are collected.汇集了微众银行参与和建立的所有项目地址。
 
-![开源版图all-project_更新2021-10.png](https://s2.loli.net/2022/07/27/yDRiwa1G4N8EFKV.png)
+![微众开源版图 20230522 .png](https://s2.loli.net/2023/05/23/cU3QC852zVm7hJH.png)
 
 更多关于微众开源的动态，微众银行招聘，社区活动，欢迎关注“微众开源”公众号，不定期还有开源周边相送！😘
 
- ![qrcode_for_gh_bdad9e15c12b_258.jpg](https://i.loli.net/2020/11/19/e3vktEYKyBD7Mz2.jpg)
-
+ 
 
 
 # 人工智能 Artificial Intelligence
