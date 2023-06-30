@@ -1,6 +1,5 @@
-![image](https://github.com/WeBankFinTech/WeBank-all-Project/assets/43694785/dbde6424-89ab-4c2c-b516-0eef16d45e05)[![Page Views Count](https://badges.toozhao.com/badges/01G7TRJ51CJAJZGVMWQ9ZDDYW6/green.svg)](https://badges.toozhao.com/stats/01G7TRJ51CJAJZGVMWQ9ZDDYW6 "Get your own page views count badge on badges.toozhao.com")
 
-All the project addresses participated and established by WeBank are collected.汇集了微众银行参与和建立的所有项目地址。
+All the project addresses participated and established by WeBank are collected.汇集了微众银行参与和建立的所有项目地址，截止2023年6月共计发布 35 个开源项目。
 
 ![微众开源版图 20230522 .png](https://s2.loli.net/2023/05/23/cU3QC852zVm7hJH.png)
 
@@ -178,6 +177,7 @@ https://gitee.com/WeBankBlockchain/Governance-Cert
 
 [https://github.com/WeBankFinTech/DeFiBus](https://github.com/WeBankFinTech/DeFiBus)
 
+
 [https://gitee.com/WeBank/DeFiBus](https://gitee.com/WeBank/DeFiBus)
 
 ### EventMesh 事件网格
@@ -335,5 +335,6 @@ https://gitee.com/WeBank/fes-design
 ### **KoalaForm**  低代码表单项目 
 
 [https://github.com/WeBankFinTech/KoalaForm](https://github.com/WeBankFinTech/KoalaForm)
+
 [https://gitee.com/WeBankOS/KoalaForm](https://gitee.com/WeBankOS/KoalaForm)
 
