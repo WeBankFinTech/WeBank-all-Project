@@ -1,5 +1,5 @@
 
-All the project addresses participated and established by WeBank are collected.汇集了微众银行参与和建立的所有项目地址，截止2023年6月共计发布 35 个开源项目。
+All the project addresses established and donate by WeBank are collected.汇集了微众银行发布、捐献的所有开源项目的仓库地址，截止2024年2月共计发布 36 个开源项目。
 
 ![微众开源版图 20230913.png](https://s2.loli.net/2023/09/13/rLZ6UdqbYNgtCuH.png)
 
@@ -147,6 +147,7 @@ https://gitee.com/WeBankBlockchain/Governance-Cert
 
 ### DDCMS 开源分布式数据管理方案
 [https://github.com/webankblockchain/DDCMS ](https://github.com/webankblockchain/DDCMS )
+
 [https://gitee.com/WeBankOS/DDCMS](https://gitee.com/WeBankOS/DDCMS)
 
 # 云计算 Cloud Computing
@@ -301,11 +302,14 @@ https://gitee.com/WeBankBlockchain/Governance-Cert
 
 [https://gitee.com/WeBank/Streamis](https://gitee.com/WeBank/Streamis)
 
-# 前端 Front-end
+# 其他 Other
+
+
+### **CyclOne**  一站式资源全周期管控平台
+
+[https://gitee.com/openeuler/CyclOne](https://gitee.com/openeuler/CyclOne)
 
 ### **WeTrident**  基于React Native的app开发、测试及运维等领域解决方案套件
-
-社区助手微信 ID : 
 
 [https://github.com/WeBankFinTech/WeTrident](https://github.com/WeBankFinTech/WeTrident)
 
