@@ -1,5 +1,7 @@
 
-All the project addresses established and donate by WeBank are collected.汇集了微众银行发布、捐献的所有开源项目的仓库地址，截止2024年2月共计发布 36 个开源项目。
+All the project addresses established and donate by WeBank are collected.汇集了微众银行发布、捐献的所有开源项目的仓库地址。
+
+截止2024年2月共计发布 36 个开源项目。
 
 ![微众开源版图 20230913.png](https://s2.loli.net/2023/09/13/rLZ6UdqbYNgtCuH.png)
 
